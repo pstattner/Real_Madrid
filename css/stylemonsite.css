@@ -1,0 +1,160 @@
+#propos1 {
+          width: 1600px;
+          height: 1550px;
+          margin: auto;
+         } 
+#accueil1 {
+          width: 1600px;
+          height: 50px;
+          margin: auto;
+         } 
+#histoire1 {
+            width: 1600px;
+            height: 1550px;
+            margin: auto;
+           } 
+#legendes1 {
+            width: 1600px;
+            height: 1600px;
+            margin: auto;
+           } 
+#plan1 {
+        width: 1600px;
+        height: 500px;
+        margin: auto;
+       }            
+#logo {
+       margin-left: 500px;
+      }
+header {
+        margin-bottom: 75px;
+       }
+header h1 {
+           font-size: 75px;
+           border-color: rgb(227, 243, 10);
+           color: black;
+           background-color: lemonchiffon;
+           margin-left: 25px;
+          }
+header nav {
+            background-color: rgb(55, 0, 255);
+            border-radius: 50px;
+            height: 35px;
+            margin-top: 30px;
+                }
+header nav ul li {
+                  list-style-type: none;
+                  display: inline;
+                  line-height: 35px;
+                  margin-left: 65px;
+                  font-weight: bold;
+                  font-size: 22px;
+                 }
+header nav ul li a {
+                    text-decoration: none;
+                    color: white;
+                   }  
+header nav ul li a:hover {
+                          color: black;
+                         }
+section {
+         width: 100%;
+         height: 200px;
+        }
+section article {
+                 background-color: rgb(230, 201, 73);
+                 border: 3px solid black;
+                 border-radius: 25px;
+                 margin: auto;
+                 font-size: 30px;
+                }
+section article p {
+                   margin-left: 25px;
+                  }
+footer {
+        margin-top: 3300px;
+       }
+footer nav {
+            background-color: rgb(202, 15, 177);
+            border-radius: 50px;
+            height: 35px;
+           }
+footer nav ul li { 
+                  font-weight: bold;
+                  list-style-type: none;
+                  display: inline;
+                  line-height: 35px;
+                  margin-left: 200px;
+                 }
+footer nav ul li a {
+                    text-decoration: none;
+                    color: white;
+                    margin-left: 10px;
+                   }  
+footer nav ul li a:hover {
+                          color: black;
+                          }
+footer p {
+          margin-left: 1150px;
+         }
+.video1 {
+         margin-left: 330px;
+        }
+.image1 {
+         margin-left: 330px;
+        }
+.accordion {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: black;
+            color: white;
+            padding: 5px;
+            cursor: pointer;
+            width: 100%;
+            text-align: left;
+            transition: 0.15s;
+            font-size: 1.1em;
+           }   
+.accordion:hover {
+                  background-color: blue;
+
+                 }   
+.panel {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden; 
+       } 
+.panel p {
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          font-size: 1.2em;
+          text-align: left;
+         } 
+#propos {
+         position: relative;
+         bottom: 1250px;
+        }
+#histoire {
+           position: relative;
+           bottom: 150px;
+          }
+#cristiano {
+            position: relative;
+            bottom: -50px;
+           }
+#uefa {
+       position: relative;
+       bottom: 300px;
+      }
+#plan {
+       position: relative;
+       bottom: 2500px;
+       }
+#faq {
+       position: relative;
+       bottom: 2300px;
+      }
+.marginsite {
+             margin-left: 600px;
+            }
+.marginplan {
+             margin-left: 100px;
+            }
